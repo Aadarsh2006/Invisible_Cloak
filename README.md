@@ -16,11 +16,10 @@ When a red cloak (or any chosen color) is worn in front of the camera, that area
 
 # 📂 Project Structure
 Invisible-Cloak/
-│── invisible_cloak.py      # Main project file
-│── hsv_calibration.py      # Helper script to tune HSV ranges
-│── background.jpg          # Background image
-│── requirements.txt        # Dependencies
-│── README.md               # Documentation
+- │── invisible_cloak.py      # Main project file
+- │── background.jpg          # Background image
+- │── requirements.txt        # Dependencies
+- │── README.md               # Documentation
 
 
 # ▶️ How to Run
@@ -50,5 +49,5 @@ Invisible-Cloak/
 - Can be extended into AR/VR projects.
 
 
-# Author
+# 📝 Author
 Aadarsh Jha | Linkedin : www.linkedin.com/in/aadarshjha09
